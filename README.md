@@ -51,7 +51,7 @@ If you'd like to contribute to the project, follow these steps:
   -  Create a new branch for your feature or bug fix.
   -  Make your changes and submit a pull request.
 
-Deployed (#https://shubhmgupta.github.io/Burger_Restaurent/)
+Deployed (https://shubhmgupta.github.io/Burger_Restaurent/)
 
 ## License 
 Author: [Shubham Gupta](https://github.com/shubhmgupta/)
